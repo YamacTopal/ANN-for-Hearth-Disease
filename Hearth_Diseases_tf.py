@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 11 12:04:46 2024
-
-@author: Yamaç
-"""
-
-#Importing the libraries
 from ucimlrepo import fetch_ucirepo 
 
 import tensorflow
